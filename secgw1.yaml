@@ -85,6 +85,7 @@ spec:
               set fmg 172.31.254.4
             end
             execute central-mgmt register-device FMG-VMTM22014917 fortinet
+            
 ---
 kind: Service
 apiVersion: v1
